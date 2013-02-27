@@ -1,0 +1,8 @@
+c:\users\max\documents\visual studio 2012\Projects\BeerReco\BeerReco\bin\Debug\BeerReco.exe.config
+c:\users\max\documents\visual studio 2012\Projects\BeerReco\BeerReco\obj\Debug\BeerReco.csprojResolveAssemblyReference.cache
+c:\users\max\documents\visual studio 2012\Projects\BeerReco\BeerReco\obj\Debug\BeerReco.Properties.Resources.resources
+c:\users\max\documents\visual studio 2012\Projects\BeerReco\BeerReco\obj\Debug\BeerReco.csproj.GenerateResource.Cache
+c:\users\max\documents\visual studio 2012\Projects\BeerReco\BeerReco\bin\Debug\BeerReco.exe
+c:\users\max\documents\visual studio 2012\Projects\BeerReco\BeerReco\bin\Debug\BeerReco.pdb
+c:\users\max\documents\visual studio 2012\Projects\BeerReco\BeerReco\obj\Debug\BeerReco.exe
+c:\users\max\documents\visual studio 2012\Projects\BeerReco\BeerReco\obj\Debug\BeerReco.pdb
