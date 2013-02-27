@@ -8,6 +8,7 @@ namespace BeerReco
 {
     class Drink
     {
+        // my comment
         public int id { get; set; }
         public DrinkType drink { get; set; }
         public string name { get; set; }

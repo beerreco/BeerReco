@@ -6,3 +6,6 @@ c:\users\max\documents\visual studio 2012\Projects\BeerReco\BeerReco\bin\Debug\B
 c:\users\max\documents\visual studio 2012\Projects\BeerReco\BeerReco\bin\Debug\BeerReco.pdb
 c:\users\max\documents\visual studio 2012\Projects\BeerReco\BeerReco\obj\Debug\BeerReco.exe
 c:\users\max\documents\visual studio 2012\Projects\BeerReco\BeerReco\obj\Debug\BeerReco.pdb
+C:\Colman\BeerReco\BeerReco\bin\Debug\BeerReco.exe.config
+C:\Colman\BeerReco\BeerReco\obj\Debug\BeerReco.exe
+C:\Colman\BeerReco\BeerReco\obj\Debug\BeerReco.pdb
